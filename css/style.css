@@ -63,6 +63,11 @@ Table of contents
     Reset
 ====================================== */
 
+
+._51mx{
+    color: #fff !important;
+}
+
 body{ font-family: 'Roboto', sans-serif; -webkit-font-smoothing: antialiased;  font-smoothing: antialiased; font-size:13px; color:#626262; line-height:23px; letter-spacing: 0.02em }
 a, a:active{ color: #626262; text-decoration: none; }
 a:hover, a:focus{ color: #272727;  text-decoration: none}
@@ -157,7 +162,7 @@ h1.page-title { margin:95px auto 0; width: 100%; }
 .fast-pink-text { color:#ff1a56 !important}
 .fast-pink-text-dark { color:#ef106e !important}
 .transparent-blue-text{ color: rgba(0,239,255,.5) !important}
-.transparent-green-text{ color: rgba(0,255,151,.5) !important}
+.transparent-green-text{ color: rgba(255,255,255,.3) !important}
 .fast-green-text{ color: #85eea5 !important}
 .crimson-red-text { color: #e31d3b !important}
 .deep-green-text { color: #1acd7b !important; }
