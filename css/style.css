@@ -63,9 +63,6 @@ Table of contents
     Reset
 ====================================== */
 
-
-
-
 body{ font-family: 'Roboto', sans-serif; -webkit-font-smoothing: antialiased;  font-smoothing: antialiased; font-size:13px; color:#626262; line-height:23px; letter-spacing: 0.02em }
 a, a:active{ color: #626262; text-decoration: none; }
 a:hover, a:focus{ color: #272727;  text-decoration: none}
@@ -160,7 +157,7 @@ h1.page-title { margin:95px auto 0; width: 100%; }
 .fast-pink-text { color:#ff1a56 !important}
 .fast-pink-text-dark { color:#ef106e !important}
 .transparent-blue-text{ color: rgba(0,239,255,.5) !important}
-.transparent-green-text{ color: rgba(255,255,255,.3) !important}
+.transparent-green-text{ color: rgba(0,255,151,.5) !important}
 .fast-green-text{ color: #85eea5 !important}
 .crimson-red-text { color: #e31d3b !important}
 .deep-green-text { color: #1acd7b !important; }
@@ -213,7 +210,7 @@ a.light-gray-text:hover { color: #7f7f7f !important}
 .first-letter-round {background-color: #e6af2a; border-radius: 50%; color: #fff; font-size: 30px; padding: 15px;}
 
 /* font family */
-.alt-font {font-family: 'PT Serif Caption', serif !important;}
+.alt-font {font-family: 'Montserrat', sans-serif !important;}
 .main-font {font-family: 'Roboto', sans-serif !important;}
 
 /* ===================================
@@ -870,58 +867,8 @@ nav.sidebar-nav .container { vertical-align: top; padding:60px 40px }
 .slider-typography .slider-typography-option3 p { font-size: 16px;}
 .slider-typography .separator-line-medium-thick { margin: 75px 0}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* slider typography - style 4 */
-.slider-typography .slider-typography-option4 span { text-shadow: 0px 0px 0px #000 ; font-size: 120px; line-height: 80px ; letter-spacing: -2px; }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.slider-typography .slider-typography-option4 span { font-size: 200px; line-height: 80px ; letter-spacing: -2px; }
 .slider-typography .slider-typography-option4 p { font-size: 14px;}
 
 /* slider typography - style 5 */
